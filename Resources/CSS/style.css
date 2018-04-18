@@ -32,7 +32,7 @@ li {
 
 /* Header */
 .jumbotron {
-  background-image: url("Resources/Photos/_MG_0280_WEB.jpg");
+  background-image: url("../../Resources/Photos/_MG_0280_WEB.jpg");
   background-size: cover;
   color: #ffffff;
   height: 800px;
@@ -46,22 +46,22 @@ li {
 }
 
 .parallax1 {
-  background-image: url("Resources/Photos/_MG_0280_WEB.jpg");
+  background-image: url("../../Resources/Photos/parallax.jpg");
   height: 950px;
 }
 
 .parallax2 {
-  background-image: url("Resources/Photos/_MG_0162_web.jpg");
+  background-image: url("../../Resources/Photos/parallax2.jpg");
   height: 500px;
 }
 
 .parallax3 {
-  background-image: url("Resources/Photos/_MG_0174_web.jpg");
+  background-image: url("../../Resources/Photos/parallax3.jpg");
   height: 500px;
 }
 
 .parallax4 {
-  background-image: url("/Users/rowenalindsay/Desktop/Honors Project/Website/Resources/Photos/_MG_0310_web.jpg");
+  background-image: url("../../Resources/Photos/parallax4.jpg");
   height: 500px;
 }
 
@@ -112,7 +112,7 @@ h4 {
 }
 
 .caption {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .dataviz {
